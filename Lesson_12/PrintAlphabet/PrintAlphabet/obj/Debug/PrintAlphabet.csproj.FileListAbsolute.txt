@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\bin\Debug\PrintAlphabet.exe.config
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\bin\Debug\PrintAlphabet.exe
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\bin\Debug\PrintAlphabet.pdb
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\obj\Debug\PrintAlphabet.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\obj\Debug\PrintAlphabet.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\obj\Debug\PrintAlphabet.exe
+E:\Fozzy Group\HomeTask\Lesson_12\PrintAlphabet\PrintAlphabet\obj\Debug\PrintAlphabet.pdb

@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\bin\Debug\House.exe.config
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\bin\Debug\House.exe
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\bin\Debug\House.pdb
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\obj\Debug\House.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\obj\Debug\House.exe
+E:\Fozzy Group\HomeTask\Lesson_11\House\House\obj\Debug\House.pdb

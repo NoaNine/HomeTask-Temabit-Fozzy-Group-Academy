@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\obj\Debug\Abramovych.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\obj\Debug\Abramovych.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\bin\Debug\Abramovych.exe.config
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\bin\Debug\Abramovych.exe
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\bin\Debug\Abramovych.pdb
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\obj\Debug\Abramovych.exe
+E:\Fozzy Group\HomeTask\Lesson_11\Abramovych\Abramovych\obj\Debug\Abramovych.pdb
