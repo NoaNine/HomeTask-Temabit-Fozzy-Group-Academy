@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\bin\Debug\Additional_Task.exe.config
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\bin\Debug\Additional_Task.exe
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\bin\Debug\Additional_Task.pdb
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\obj\Debug\Additional_Task.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\obj\Debug\Additional_Task.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\obj\Debug\Additional_Task.exe
+E:\Fozzy Group\HomeTask\Lesson_5\Additional_Task\obj\Debug\Additional_Task.pdb

@@ -1,0 +1,14 @@
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\bin\Debug\Task_Two.exe.config
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\bin\Debug\Task_Two.exe
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\bin\Debug\Task_Two.pdb
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\obj\Debug\Task_Two.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\obj\Debug\Task_Two.exe
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\obj\Debug\Task_Two.pdb
+E:\Fozzy Group\HomeTask\Lesson_5\Task_Two\obj\Debug\Task_Two.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\bin\Debug\Task_Two.exe.config
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\bin\Debug\Task_Two.exe
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\bin\Debug\Task_Two.pdb
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\obj\Debug\Task_Two.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\obj\Debug\Task_Two.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\obj\Debug\Task_Two.exe
+E:\Fozzy Group\HomeTask\C#\Lesson_5\Task_Two\obj\Debug\Task_Two.pdb
