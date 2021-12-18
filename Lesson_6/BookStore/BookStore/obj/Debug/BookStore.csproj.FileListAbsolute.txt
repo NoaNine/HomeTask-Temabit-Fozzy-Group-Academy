@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\bin\Debug\BookStore.exe.config
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\bin\Debug\BookStore.exe
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\bin\Debug\BookStore.pdb
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\obj\Debug\BookStore.exe
+E:\Fozzy Group\HomeTask\Lesson_6\BookStore\BookStore\obj\Debug\BookStore.pdb

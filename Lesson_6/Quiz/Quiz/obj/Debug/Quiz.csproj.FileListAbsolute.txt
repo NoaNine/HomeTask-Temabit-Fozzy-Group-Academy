@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\bin\Debug\Quiz.exe.config
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\bin\Debug\Quiz.exe
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\bin\Debug\Quiz.pdb
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\obj\Debug\Quiz.exe
+E:\Fozzy Group\HomeTask\Lesson_6\Quiz\Quiz\obj\Debug\Quiz.pdb

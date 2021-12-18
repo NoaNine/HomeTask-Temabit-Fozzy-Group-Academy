@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\obj\Debug\MobileEvolution.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\obj\Debug\MobileEvolution.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\bin\Debug\MobileEvolution.exe.config
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\bin\Debug\MobileEvolution.exe
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\bin\Debug\MobileEvolution.pdb
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\obj\Debug\MobileEvolution.exe
+E:\Fozzy Group\HomeTask\Lesson_8\MobileEvolution\MobileEvolution\obj\Debug\MobileEvolution.pdb

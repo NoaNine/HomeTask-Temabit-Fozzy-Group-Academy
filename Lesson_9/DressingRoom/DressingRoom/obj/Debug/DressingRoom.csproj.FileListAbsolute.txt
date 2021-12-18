@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\bin\Debug\DressingRoom.exe.config
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\bin\Debug\DressingRoom.exe
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\bin\Debug\DressingRoom.pdb
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\obj\Debug\DressingRoom.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\obj\Debug\DressingRoom.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\obj\Debug\DressingRoom.exe
+E:\Fozzy Group\HomeTask\Lesson_9\DressingRoom\DressingRoom\obj\Debug\DressingRoom.pdb
