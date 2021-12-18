@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\bin\Debug\ThreadTaskOne.exe.config
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\bin\Debug\ThreadTaskOne.exe
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\bin\Debug\ThreadTaskOne.pdb
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\obj\Debug\ThreadTaskOne.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\obj\Debug\ThreadTaskOne.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\obj\Debug\ThreadTaskOne.exe
+E:\Fozzy Group\HomeTask\Lesson_14\ThreadTaskOne\ThreadTaskOne\obj\Debug\ThreadTaskOne.pdb

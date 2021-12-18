@@ -1,0 +1,14 @@
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\bin\Debug\Shop.exe.config
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\bin\Debug\Shop.exe
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\bin\Debug\Shop.pdb
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\obj\Debug\Shop.exe
+E:\Fozzy Group\HomeTask\Lesson_14\Shop\Shop\obj\Debug\Shop.pdb
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\bin\Debug\Shop.exe.config
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\bin\Debug\Shop.exe
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\bin\Debug\Shop.pdb
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\obj\Debug\Shop.exe
+E:\Fozzy Group\HomeTask\Lesson_15\Shop\Shop\obj\Debug\Shop.pdb

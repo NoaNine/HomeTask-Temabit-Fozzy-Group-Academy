@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\obj\Debug\NoteBook.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+E:\Fozzy Group\HomeTask\Lesson_13\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
