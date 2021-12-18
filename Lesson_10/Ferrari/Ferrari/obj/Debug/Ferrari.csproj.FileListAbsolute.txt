@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\obj\Debug\Ferrari.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\bin\Debug\Ferrari.exe.config
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\bin\Debug\Ferrari.exe
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\bin\Debug\Ferrari.pdb
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\obj\Debug\Ferrari.exe
+E:\Fozzy Group\HomeTask\Lesson_10\Ferrari\Ferrari\obj\Debug\Ferrari.pdb
