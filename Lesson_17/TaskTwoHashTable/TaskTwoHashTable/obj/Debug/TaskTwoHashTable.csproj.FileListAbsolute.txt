@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\bin\Debug\TaskTwoHashTable.exe.config
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\bin\Debug\TaskTwoHashTable.exe
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\bin\Debug\TaskTwoHashTable.pdb
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\obj\Debug\TaskTwoHashTable.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\obj\Debug\TaskTwoHashTable.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\obj\Debug\TaskTwoHashTable.exe
+E:\Fozzy Group\HomeTask\Lesson_17\TaskTwoHashTable\TaskTwoHashTable\obj\Debug\TaskTwoHashTable.pdb

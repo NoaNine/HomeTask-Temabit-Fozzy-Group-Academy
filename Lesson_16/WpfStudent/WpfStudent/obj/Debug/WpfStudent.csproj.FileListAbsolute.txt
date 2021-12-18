@@ -1,0 +1,15 @@
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\MainWindow.g.cs
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\App.g.cs
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent_MarkupCompile.cache
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent_MarkupCompile.lref
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\bin\Debug\WpfStudent.exe.config
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\bin\Debug\WpfStudent.exe
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\bin\Debug\WpfStudent.pdb
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\MainWindow.baml
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.g.resources
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.Properties.Resources.resources
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.csproj.GenerateResource.cache
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.exe
+E:\Fozzy Group\HomeTask\Lesson_16\WpfStudent\WpfStudent\obj\Debug\WpfStudent.pdb
