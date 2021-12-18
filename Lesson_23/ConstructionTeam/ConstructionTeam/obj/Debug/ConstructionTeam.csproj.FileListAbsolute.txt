@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\bin\Debug\ConstructionTeam.exe.config
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\bin\Debug\ConstructionTeam.exe
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\bin\Debug\ConstructionTeam.pdb
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\obj\Debug\ConstructionTeam.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\obj\Debug\ConstructionTeam.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\obj\Debug\ConstructionTeam.exe
+E:\Fozzy Group\HomeTask\Lesson_23\ConstructionTeam\ConstructionTeam\obj\Debug\ConstructionTeam.pdb

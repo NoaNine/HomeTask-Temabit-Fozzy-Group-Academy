@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\LessonTask\LessonTask\bin\Debug\LessonTask.exe.config
+C:\Users\Александр\source\repos\LessonTask\LessonTask\bin\Debug\LessonTask.exe
+C:\Users\Александр\source\repos\LessonTask\LessonTask\bin\Debug\LessonTask.pdb
+C:\Users\Александр\source\repos\LessonTask\LessonTask\obj\Debug\LessonTask.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\LessonTask\LessonTask\obj\Debug\LessonTask.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\LessonTask\LessonTask\obj\Debug\LessonTask.exe
+C:\Users\Александр\source\repos\LessonTask\LessonTask\obj\Debug\LessonTask.pdb

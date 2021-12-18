@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\bin\Debug\TaskTwoMutex.exe.config
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\bin\Debug\TaskTwoMutex.exe
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\bin\Debug\TaskTwoMutex.pdb
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\obj\Debug\TaskTwoMutex.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\obj\Debug\TaskTwoMutex.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\obj\Debug\TaskTwoMutex.exe
+E:\Fozzy Group\HomeTask\Lesson_22\TaskTwoMutex\TaskTwoMutex\obj\Debug\TaskTwoMutex.pdb

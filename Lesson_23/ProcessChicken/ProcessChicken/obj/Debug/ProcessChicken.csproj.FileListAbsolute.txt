@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\bin\Debug\ProcessChicken.exe.config
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\bin\Debug\ProcessChicken.exe
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\bin\Debug\ProcessChicken.pdb
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\obj\Debug\ProcessChicken.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\obj\Debug\ProcessChicken.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\obj\Debug\ProcessChicken.exe
+E:\Fozzy Group\HomeTask\Lesson_23\ProcessChicken\ProcessChicken\obj\Debug\ProcessChicken.pdb
