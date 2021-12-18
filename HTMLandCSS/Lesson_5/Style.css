@@ -1,0 +1,255 @@
+@font-face
+{
+    font-family: RegIta;
+    src: url(styles/fonts/Lato-RegIta.ttf);
+}
+
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Wrapper
+{
+    max-width: 1600px;
+    min-width: 1000px;
+    margin: 0 auto;
+}
+
+.Button
+{
+    display: table-cell;
+    text-align: center;
+    border: 2px solid gold;
+    border-left: 5px solid gold;
+    width: 150px;
+    height: 50px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.Button_square
+{
+    display: inline-block;
+    
+    border: 2px solid gold;
+    color: gold;
+    text-decoration: none;
+}
+
+.Header
+{
+    height: 150px;
+    text-align: center;
+}
+
+.Header h2
+{
+    font-weight: normal;
+    color: gold;
+    padding-top: 60px;
+}
+
+.Section_1
+{
+    padding-top: 80px;
+    height: 600px;
+    background-image: url(img/banner.jpg);
+}
+
+.Menu
+{
+    height: 70px;
+    background-color: rgba(0,0,0, 0.7);
+}
+
+#Logo
+{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+#Logo img
+{
+    margin-top: 5px;
+}
+
+.Menu ul
+{
+    
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.Menu ul li
+{
+    display: inline-block;
+    width: 10%;
+    height: 100%;
+}
+
+.Menu ul li a
+{
+    text-decoration: none;
+    color: white;
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding-top: 25px;
+    text-align: center;
+    box-sizing: border-box;
+    transition: border-bottom 0.5s;
+}
+
+.Menu ul li a:hover
+{
+    border-bottom: 5px solid rgb(255, 105, 105);
+}
+
+.Section_1 .Content
+{
+    width: 450px;
+    height: 450px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.Section_1 .Content h2
+{
+    font-weight: normal;
+    text-transform: capitalize;
+    height: 100px;
+}
+
+.Section_1 .Content h2 span
+{
+    color: salmon;
+}
+
+.Section_1 .Content p
+{
+    width: 80%;
+    height: 200px;
+}
+
+.Section_1 .Content .Button
+{
+    color: black;
+}
+
+.Section_1 .Circle_button
+{
+    display: inline-block;
+    margin-top: 85px;
+    width: 12px;
+    height: 12px;
+    border-radius: 12px;
+    border: 1px solid black;
+    transition: background-color 1s;
+}
+
+.Section_1 .Circle_button:hover
+{
+    background-color: black;
+}
+
+.Section_2
+{
+    height: 680px;
+    background-color: salmon;
+    text-align: center;
+}
+
+.Section_2 .Header
+{
+    background-color: salmon;
+}
+
+.Section_2 .Block
+{
+    display: inline-block;
+    width: 16.66%;
+    height: 530px;
+}
+
+.Section_2 .Block figure
+{
+    text-align: center;
+}
+
+.Section_2 .Block figure img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: rgb(233, 111, 111);
+    transition: all 0.5s;
+    box-sizing: border-box;
+}
+
+.Section_2 .Block figure img:hover
+{
+    border: 1px solid gold;
+}
+
+.Section_2 .Block figure figcaption
+{
+    padding-top: 30px;  
+    color: white;
+    transition: all 0.5s;
+}
+
+.Section_2 .Block figure figcaption:hover
+{  
+    color: gold;
+}
+
+.Section_2 .Block p
+{
+    padding-top: 20px;
+}
+
+.Section_2 .Block .Button
+{
+    color: white;
+}
+
+.Section_3
+{
+    height: 680px;
+    background-color: rgba(220, 220, 220, 0.3);
+}
+
+.Section_3 
+{
+
+}
+
+.Table
+{
+    font-size: 0;
+}
+
+.Sub_table
+{
+
+}
+
+.Section_3 .Column
+{
+
+}
+
+.Section_3 .Column img
+{
+
+}
+
+.Section_4
+{
+    height: 680px;
+    background-color: hotpink;
+}

@@ -1,0 +1,63 @@
+        body
+        {
+            background: url(gSem3ct2R74.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        ul
+        {
+            text-align: center;
+            margin-top: 40px;
+        }
+        li
+        {
+           display: inline-block; 
+           width: 10%;
+        }
+        a
+        {
+            text-decoration: none;
+            border-bottom: 1px solid silver;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white;
+            display: inline-block;
+            transition-duration: 1s;
+        }
+        a:hover
+        {
+            border-bottom: none;
+            color: silver;
+        }
+        .Title
+        {
+            margin-top: 200px;
+        }
+        #Title-block1
+        {
+            margin: 20%;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 54px;
+            color: white;
+            text-align: center;
+            border-top: 1px solid silver;
+            border-bottom: 1px solid silver;
+            text-transform: uppercase;
+        }
+        #First-letter
+        {
+            font-size: 56px;
+        }
+        #Last-letters
+        {
+            font-size: 48px;
+        }
+        #Title-block2
+        {
+
+        }
+        #Title-block2
+        {
+
+            border-bottom: 1px solid silver;
+        }
