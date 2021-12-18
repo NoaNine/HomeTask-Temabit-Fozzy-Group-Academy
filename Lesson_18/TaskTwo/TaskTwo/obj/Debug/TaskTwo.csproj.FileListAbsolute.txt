@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\bin\Debug\TaskTwo.exe.config
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\bin\Debug\TaskTwo.exe
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\bin\Debug\TaskTwo.pdb
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\obj\Debug\TaskTwo.exe
+E:\Fozzy Group\HomeTask\Lesson_18\TaskTwo\TaskTwo\obj\Debug\TaskTwo.pdb

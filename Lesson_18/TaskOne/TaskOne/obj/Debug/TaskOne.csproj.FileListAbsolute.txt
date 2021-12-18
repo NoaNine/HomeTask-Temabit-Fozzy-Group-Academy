@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\bin\Debug\TaskOne.exe.config
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\bin\Debug\TaskOne.exe
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\bin\Debug\TaskOne.pdb
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\obj\Debug\TaskOne.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\obj\Debug\TaskOne.exe
+E:\Fozzy Group\HomeTask\Lesson_18\TaskOne\TaskOne\obj\Debug\TaskOne.pdb

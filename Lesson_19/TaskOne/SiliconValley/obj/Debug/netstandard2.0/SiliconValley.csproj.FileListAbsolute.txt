@@ -1,0 +1,9 @@
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.AssemblyInfoInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.AssemblyInfo.cs
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\bin\Debug\netstandard2.0\SiliconValley.deps.json
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\bin\Debug\netstandard2.0\SiliconValley.dll
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\bin\Debug\netstandard2.0\SiliconValley.pdb
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.dll
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.pdb
+E:\Fozzy Group\HomeTask\Lesson_19\TaskOne\SiliconValley\obj\Debug\netstandard2.0\SiliconValley.csprojAssemblyReference.cache
