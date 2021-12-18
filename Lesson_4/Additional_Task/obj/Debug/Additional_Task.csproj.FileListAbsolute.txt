@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\bin\Debug\Additional_Task.exe.config
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\bin\Debug\Additional_Task.exe
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\bin\Debug\Additional_Task.pdb
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\obj\Debug\Additional_Task.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\obj\Debug\Additional_Task.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\obj\Debug\Additional_Task.exe
+C:\Users\Александр\source\repos\Lesson_4\Additional_Task\obj\Debug\Additional_Task.pdb

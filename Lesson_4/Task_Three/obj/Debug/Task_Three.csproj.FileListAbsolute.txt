@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\bin\Debug\Task_Three.exe.config
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\bin\Debug\Task_Three.exe
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\bin\Debug\Task_Three.pdb
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\obj\Debug\Task_Three.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\obj\Debug\Task_Three.exe
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\obj\Debug\Task_Three.pdb
+C:\Users\Александр\source\repos\Lesson_4\Task_Three\obj\Debug\Task_Three.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\bin\Debug\Task_Three.exe.config
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\bin\Debug\Task_Three.exe
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\bin\Debug\Task_Three.pdb
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\obj\Debug\Task_Three.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\obj\Debug\Task_Three.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\obj\Debug\Task_Three.exe
+E:\Fozzy Group\HomeTask\Lesson_4\Task_Three\obj\Debug\Task_Three.pdb

@@ -1,0 +1,7 @@
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe.config
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\bin\Debug\Lesson_2.pdb
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\obj\Debug\Lesson_2.exe
+E:\Fozzy Group\HomeTask\Lesson_2\Lesson_2\obj\Debug\Lesson_2.pdb
