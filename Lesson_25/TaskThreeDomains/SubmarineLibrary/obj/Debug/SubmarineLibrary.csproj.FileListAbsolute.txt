@@ -1,0 +1,6 @@
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\bin\Debug\SubmarineLibrary.dll
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\bin\Debug\SubmarineLibrary.pdb
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\obj\Debug\SubmarineLibrary.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\obj\Debug\SubmarineLibrary.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\obj\Debug\SubmarineLibrary.dll
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\SubmarineLibrary\obj\Debug\SubmarineLibrary.pdb

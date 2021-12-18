@@ -1,0 +1,6 @@
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\bin\Debug\TankLibrary.dll
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\bin\Debug\TankLibrary.pdb
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\obj\Debug\TankLibrary.csprojAssemblyReference.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\obj\Debug\TankLibrary.csproj.CoreCompileInputs.cache
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\obj\Debug\TankLibrary.dll
+E:\Fozzy Group\HomeTask\C#\Lesson_25\TaskThreeDomains\TankLibrary\obj\Debug\TankLibrary.pdb
